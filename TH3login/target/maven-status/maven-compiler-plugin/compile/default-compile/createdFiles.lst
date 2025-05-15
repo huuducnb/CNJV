@@ -1,0 +1,3 @@
+com\example\springlogin\model\User.class
+com\example\demo\SpringLoginRegisterApplication.class
+com\example\springlogin\controller\LoginController.class
